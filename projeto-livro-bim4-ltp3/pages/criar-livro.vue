@@ -25,7 +25,7 @@
             v-model="form.lido"
             value="true"
             class="lido"
-            required
+            
           >Lido</b-form-checkbox>
         </b-form-group>
 
@@ -35,8 +35,9 @@
             value="false"
             class="lido"
             required
+            v-model="form.lido"
           >Não lido</b-form-checkbox>
-        </b-form-group>
+        </b-form-group> 
 
         <b-form-group id="input-group-4" label="Sinopse:" label-for="rotulo">
           <b-form-textarea
