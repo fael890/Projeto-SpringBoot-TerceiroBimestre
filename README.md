@@ -5,4 +5,11 @@
 * [Luan Tavares de Lima](https://github.com/Tavaress17).
 * [Rafael Aparecido Marinho](https://github.com/fael890).
 
+### Instalação:
+Após clonar o diretório com o comando:
+
+```bash
+    $ git clone https://github.com/fael890/Projeto-SpringBoot-TerceiroBimestre.git
+```
+
 
