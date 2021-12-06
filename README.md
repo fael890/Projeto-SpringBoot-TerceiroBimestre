@@ -9,7 +9,7 @@
 Após clonar o diretório com o comando:
 
 ```bash
-    $ git clone https://github.com/fael890/Projeto-SpringBoot-TerceiroBimestre.git
+git clone https://github.com/fael890/Projeto-SpringBoot-TerceiroBimestre.git
 ```
 
 
